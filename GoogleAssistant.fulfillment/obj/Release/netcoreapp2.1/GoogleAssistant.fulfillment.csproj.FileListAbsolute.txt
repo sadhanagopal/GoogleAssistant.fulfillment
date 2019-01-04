@@ -1,0 +1,15 @@
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\bin\Release\netcoreapp2.1\GoogleAssistant.fulfillment.deps.json
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\bin\Release\netcoreapp2.1\GoogleAssistant.fulfillment.runtimeconfig.json
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\bin\Release\netcoreapp2.1\GoogleAssistant.fulfillment.runtimeconfig.dev.json
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\bin\Release\netcoreapp2.1\GoogleAssistant.fulfillment.dll
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\bin\Release\netcoreapp2.1\GoogleAssistant.fulfillment.pdb
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.csprojAssemblyReference.cache
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.csproj.CoreCompileInputs.cache
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.RazorAssemblyInfo.cache
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.RazorAssemblyInfo.cs
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.AssemblyInfoInputs.cache
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.AssemblyInfo.cs
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.RazorTargetAssemblyInfo.cache
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.dll
+C:\git\Sites\GoogleAssistant.fulfillment\GoogleAssistant.fulfillment\obj\Release\netcoreapp2.1\GoogleAssistant.fulfillment.pdb
